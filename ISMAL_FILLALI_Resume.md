@@ -11,6 +11,7 @@
 ### Highly skilled and accomplished bilingual International Trade Data Analyst with 8 years of hands-on experience in trade liberalization, WTO policies, and Free-Trade Agreement monitoring. Proficient in interpreting and analyzing trade data using advanced tools such as SQL, Tableau, and R to derive valuable insights. Demonstrated ability to provide strategic recommendations based on comprehensive market research, driving trade facilitation and increasing compliance. Proactive and collaborative team player, adept at addressing trade challenges with data-driven solutions. Seeking an opportunity to leverage expertise and analytical acumen to contribute effectively as a Data Analyst in Canada's dynamic and competitive business landscape.
 ---
 ### <span style="color:#005b96">COMPETENCIES AND ACHIEVEMENTS</span>
+
 -  Conducted quantitative and qualitative research on market dynamics and trade trends using Excel and Tableau, identifying key drivers.
 -  Created weekly Dashboards and submitted 52 vigilance reports on commodities market situation, assisting in data-driven decisions.
 -  Provided strategic recommendations based on trade policies and agreements to enhance trade facilitation and increase export share.
